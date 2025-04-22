@@ -1,2 +1,5 @@
 # clean-app-386
-An automation script repository
+
+This is a sample project written in **Go**.
+
+Generated automatically.
